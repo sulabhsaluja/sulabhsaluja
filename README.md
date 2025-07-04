@@ -16,7 +16,7 @@
 <!-- Portfolio & Contact -->
 <h2>📌 About Me</h2>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfollio-sulabh-salujas-projects.vercel.app/)  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sulabhsaluja.github.io/sulabh-portfolio/)  
 - 📫 How to reach me: **connect.sulabhsaluja@gmail.com**
 
 <!-- Social Links -->
