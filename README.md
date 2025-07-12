@@ -1,15 +1,14 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
-
-###
 
 <h1 align="center">Hi 👋, I'm Sulabh Saluja</h1>
 
-<h3 align="center">I'm a dedicated software developer with a passion for building innovative, end-to-end solutions. I specialize in full-stack development and love exploring new technologies to create impactful and efficient applications.</h3>
+<h3 align="center">
+Passionate Full-Stack Developer (Java + MERN) | 3rd Year CS Student | DSA Enthusiast
+</h3>
 
-<!-- Profile Views -->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sulabhsaluja&label=Profile%20views&color=0e75b6&style=flat" alt="sulabhsaluja" />
 </p>
 
